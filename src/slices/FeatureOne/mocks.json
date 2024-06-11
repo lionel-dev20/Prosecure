@@ -1,0 +1,112 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title_featureone": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "General"
+						}
+					}
+				]
+			},
+			"image_featureone": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb",
+					"width": 3958,
+					"height": 3958
+				},
+				"url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb",
+				"width": 3958,
+				"height": 3958,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"description_featureone": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Cillum eiusmod consequat laborum ea laborum. Irure eiusmod culpa sunt excepteur commodo ad in aliquip excepteur aliquip. Anim reprehenderit quis est ea."
+						}
+					}
+				]
+			},
+			"feature_detail": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"icon_featureone",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+										"width": 3456,
+										"height": 4320
+									},
+									"url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a",
+									"width": 3456,
+									"height": 4320,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"texte_iconfeatureone",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "cover",
+									"type": "Text"
+								}
+							],
+							[
+								"title_service",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Excited"
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

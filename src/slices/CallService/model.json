@@ -1,0 +1,54 @@
+{
+  "id": "call_service",
+  "type": "SharedSlice",
+  "name": "CallService",
+  "description": "CallService",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "image_service_call": {
+          "type": "Image",
+          "config": {
+            "label": "Image service call",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "title_service_call": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title service call",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading3"
+          }
+        },
+        "paragraphe_service_call": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Paragraphe call",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "link_whatsapp": {
+          "type": "Boolean",
+          "config": {
+            "label": "Link WhatsApp",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": false
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

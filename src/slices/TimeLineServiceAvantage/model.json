@@ -1,0 +1,229 @@
+{
+  "id": "time_line_service_avantage",
+  "type": "SharedSlice",
+  "name": "TimeLineServiceAvantage",
+  "description": "TimeLineServiceAvantage",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "timelineservice": {
+          "type": "Group",
+          "config": {
+            "label": "TimelineService",
+            "repeat": false,
+            "fields": {
+              "title_timeline_service": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Title TimeLine Service",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "heading3"
+                }
+              },
+              "description_timeline_service": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description TimeLine service",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "paragraph"
+                }
+              },
+              "image_illustrative_service": {
+                "type": "Image",
+                "config": {
+                  "label": "Image illustrative service",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        },
+        "timelineservice2": {
+          "type": "Group",
+          "config": {
+            "label": "TimelineService2",
+            "repeat": false,
+            "fields": {
+              "title_timeline_service_2": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Title TimeLine Service 2",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "heading3"
+                }
+              },
+              "description_timeline_service_2": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description TimeLine service 2",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "paragraph"
+                }
+              },
+              "image_illustrative_service_2": {
+                "type": "Image",
+                "config": {
+                  "label": "Image illustrative service 2",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        },
+        "timelineservice_3": {
+          "type": "Group",
+          "config": {
+            "label": "TimelineService 3",
+            "repeat": false,
+            "fields": {
+              "title_timeline_service_3": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Title TimeLine Service 3",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "heading3"
+                }
+              },
+              "description_timeline_service_3": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description TimeLine service 3",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "paragraph"
+                }
+              },
+              "image_illustrative_service_3": {
+                "type": "Image",
+                "config": {
+                  "label": "Image illustrative service 3",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        },
+        "timelineservice4": {
+          "type": "Group",
+          "config": {
+            "label": "TimelineService4",
+            "repeat": false,
+            "fields": {
+              "title_timeline_service_4": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Title TimeLine Service 4",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "heading3"
+                }
+              },
+              "description_timeline_service4": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description TimeLine service4",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "paragraph"
+                }
+              },
+              "image_illustrative_service4": {
+                "type": "Image",
+                "config": {
+                  "label": "Image illustrative service4",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        },
+        "timelineservice5": {
+          "type": "Group",
+          "config": {
+            "label": "TimelineService5",
+            "repeat": false,
+            "fields": {
+              "title_timeline_service_5": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Title TimeLine Service 5",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "single": "heading3"
+                }
+              },
+              "description_timeline_service5": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description TimeLine service5",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "single": "paragraph"
+                }
+              },
+              "image_illustrative_service5": {
+                "type": "Image",
+                "config": {
+                  "label": "Image illustrative service5",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        },
+        "timelineservice6": {
+          "type": "Group",
+          "config": {
+            "label": "TimelineService6",
+            "repeat": true,
+            "fields": {
+              "title_timeline_service_6": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Title TimeLine Service 6",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "multi": "heading3"
+                }
+              },
+              "description_timeline_service6": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Description TimeLine service6",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "single": "paragraph"
+                }
+              },
+              "image_illustrative_service6": {
+                "type": "Image",
+                "config": {
+                  "label": "Image illustrative service6",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "feature_one",
+  "type": "SharedSlice",
+  "name": "FeatureOne",
+  "description": "FeatureOne",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title_featureone": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title featureOne",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        },
+        "image_featureone": {
+          "type": "Image",
+          "config": {
+            "label": "Image featureOne",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "description_featureone": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description featureOne",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "feature_detail": {
+          "type": "Group",
+          "config": {
+            "label": "Feature detail",
+            "repeat": true,
+            "fields": {
+              "title_service": {
+                "type": "StructuredText",
+                "config": {
+                  "label": "Title service",
+                  "placeholder": "",
+                  "allowTargetBlank": true,
+                  "single": "heading3"
+                }
+              },
+              "icon_featureone": {
+                "type": "Image",
+                "config": {
+                  "label": "icon featureOne",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              },
+              "texte_iconfeatureone": {
+                "type": "Text",
+                "config": {
+                  "label": "Texte iconFeatureOne",
+                  "placeholder": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

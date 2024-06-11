@@ -1,0 +1,45 @@
+{
+  "id": "brand_logo",
+  "type": "SharedSlice",
+  "name": "BrandLogo",
+  "description": "BrandLogo",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "heading": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Heading",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading3"
+          }
+        },
+        "brandlogos": {
+          "type": "Group",
+          "config": {
+            "label": "BrandLogos",
+            "repeat": true,
+            "fields": {
+              "logobrand": {
+                "type": "Image",
+                "config": {
+                  "label": "logobrand",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

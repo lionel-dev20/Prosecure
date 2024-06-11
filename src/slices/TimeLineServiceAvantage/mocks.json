@@ -1,0 +1,393 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"timelineservice": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title_timeline_service",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "White"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description_timeline_service",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Cupidatat ea reprehenderit eu dolore elit tempor id."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image_illustrative_service",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+										"width": 5848,
+										"height": 3899
+									},
+									"url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+									"width": 5848,
+									"height": 3899,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					}
+				]
+			},
+			"timelineservice2": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title_timeline_service_2",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Stretch"
+											}
+										}
+									]
+								}
+							],
+							[
+								"image_illustrative_service_2",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea",
+										"width": 5000,
+										"height": 4613
+									},
+									"url": "https://images.unsplash.com/photo-1596195689404-24d8a8d1c6ea",
+									"width": 5000,
+									"height": 4613,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"description_timeline_service_2",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Qui reprehenderit eu reprehenderit non labore anim nulla incididunt ex consectetur eiusmod laborum. Commodo aliqua ut laboris nisi sint qui ipsum proident labore adipisicing voluptate eiusmod."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"timelineservice_3": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title_timeline_service_3",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "After"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description_timeline_service_3",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Deserunt Lorem anim non esse esse amet incididunt ipsum sint laborum irure excepteur minim deserunt exercitation. Aliqua non adipisicing aliquip sint non in. Consequat exercitation mollit do eiusmod eu adipisicing occaecat laborum nostrud eiusmod minim sit nostrud proident."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image_illustrative_service_3",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1587840171670-8b850147754e",
+										"width": 4480,
+										"height": 4480
+									},
+									"url": "https://images.unsplash.com/photo-1587840171670-8b850147754e",
+									"width": 4480,
+									"height": 4480,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					}
+				]
+			},
+			"timelineservice4": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title_timeline_service_4",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Outline"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description_timeline_service4",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Adipisicing consequat proident eu excepteur officia et reprehenderit id sit consectetur veniam sit elit esse. Eu nisi do sunt Lorem velit sint cupidatat dolore ea ea reprehenderit sunt. Ex incididunt nisi voluptate eu ut."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image_illustrative_service4",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+										"width": 3810,
+										"height": 5715
+									},
+									"url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+									"width": 3810,
+									"height": 5715,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					}
+				]
+			},
+			"timelineservice5": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title_timeline_service_5",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Decide"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description_timeline_service5",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Voluptate ullamco eiusmod nostrud. Velit culpa velit irure eiusmod culpa irure sit."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image_illustrative_service5",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+										"width": 3648,
+										"height": 4560
+									},
+									"url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+									"width": 3648,
+									"height": 4560,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					}
+				]
+			},
+			"timelineservice6": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title_timeline_service_6",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Lesson"
+											}
+										}
+									]
+								}
+							],
+							[
+								"description_timeline_service6",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Ullamco id nulla enim ipsum nulla ut occaecat enim esse non anim nisi consectetur. Aute id excepteur proident duis consequat cillum. Anim veniam dolor eiusmod esse velit amet."
+											}
+										}
+									]
+								}
+							],
+							[
+								"image_illustrative_service6",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04",
+										"width": 4000,
+										"height": 4000
+									},
+									"url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04",
+									"width": 4000,
+									"height": 4000,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"credits": null,
+									"alt": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

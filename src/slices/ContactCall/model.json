@@ -1,0 +1,36 @@
+{
+  "id": "contact_call",
+  "type": "SharedSlice",
+  "name": "ContactCall",
+  "description": "ContactCall",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title_call_number": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title call number",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading3"
+          }
+        },
+        "images_call_number": {
+          "type": "Image",
+          "config": {
+            "label": "Images call number",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
